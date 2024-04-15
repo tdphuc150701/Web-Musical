@@ -116,7 +116,7 @@
 
 						</div>
 						<div class="down-content">
-							<h4 class="text text-center">Tống Gia Huy</h4>
+							<h4>Tống Gia Huy</h4>
 							<span>MSSV:19470491</span>
 							
 						</div>
@@ -131,8 +131,8 @@
 
 						</div>
 						<div class="down-content">
-							<h4>Nguyễn Hoàng Nhật</h4>
-							<span>MSSV: 18040711</span>
+							<h4>Trương Đình Phúc</h4>
+							<span>MSSV: 19474551</span>
 							<
 						</div>
 					</div>

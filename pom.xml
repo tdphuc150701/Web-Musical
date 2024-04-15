@@ -23,14 +23,15 @@
 		<!-- https://mvnrepository.com/artifact/javax.servlet/jstl -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
-			<artifactId>jstl</artifactId>
-			<version>1.2</version>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>4.0.1</version> <!-- hoặc bản phù hợp nhất với bạn -->
+			<scope>provided</scope>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/jstl-api -->
 		<dependency>
-			<groupId>javax.servlet.jsp.jstl</groupId>
-			<artifactId>jstl-api</artifactId>
-			<version>1.2</version>
+			<groupId>javax.servlet</groupId>
+			<artifactId>jstl</artifactId>
+			<version>1.2</version> <!-- hoặc phiên bản phù hợp nhất với bạn -->
 		</dependency>
 		<dependency>
 			<groupId>com.microsoft.sqlserver</groupId>
